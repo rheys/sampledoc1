@@ -21,13 +21,17 @@ The sytle in writing Code Documentation depends on the audience. In general, the
 
 Mainly, the focus for Developer is **what the code does and how the code does it**. On the other hand, the operator wants to know **how to use the code**.
 
-**1. Code Documentation for Developers (Maintainers)**
-This docmentation is intended to provide explanation for new developer who join the team and need to continue someone else's code. By reading this documentation, it is expected that the new developer will be able to grasp understanding of the code faster and can continue to code easier.
+<details>
+<summary><strong>1. Code Documentation for Developers (Maintainers)</strong></summary>
+<p>This docmentation is intended to provide explanation for new developer who join the team and need to continue someone else's code. By reading this documentation, it is expected that the new developer will be able to grasp understanding of the code faster and can continue to code easier.
 
-One documentation is not enough to help the new developer understands the code or the system easier, it needs the other supporting documentations, such as System Design Documentation, API Specification, README, Contribution Guide, FAQ, and if possible a wiki.
+One documentation is not enough to help the new developer understands the code or the system easier, it needs the other supporting documentations, such as System Design Documentation, API Specification, README, Contribution Guide, FAQ, and if possible a wiki.</p>
+</details>
 
-**2. Code Documentation for Operator (external user)**
-This documentation is more like an online manual. It guides use how to operate the application and explains each feature within the application.
+<details>
+<summary><strong>2. Code Documentation for Operator (external user)</strong></summary>
+<p>This documentation is more like an online manual. It guides use how to operate the application and explains each feature within the application.</p>
+</details>
 
 
 ## Technical Writer
