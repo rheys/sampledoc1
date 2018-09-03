@@ -1,6 +1,6 @@
 # Rhea's Online Documentation Sample
 
-## Introducion
+## Introduction
 This is the sample of online documentation. The materials within this documentation were randomly captured from google with key word "technical documentation".
 
 
