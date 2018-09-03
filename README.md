@@ -30,7 +30,7 @@ One documentation is not enough to help the new developer understands the code o
 This documentation is more like an online manual. It guides use how to operate the application and explains each feature within the application.
 
 
-## ***Technical Writer***
+## Technical Writer
 Unfortunately, in the country of my origin, the profession of Technical Writer was not widely known. At least until late 2015. However, luckily it is not the case in the UK and US. Even though Technical Writer or also known as Technical Author in the UK is quite widely known, not many people really understand the role and what it takes to be a technical writer (author).
 
 To be a technical writer, one must have technical skills. Preferably those who graduated from computer-related major or someone who has experience in writing code. Thus, Technical Writer not only writer. Moreover, other than having strong technical skills, it is obvious that a technical writer must also have passion and capability in writing too. These combination of two skills is what makes technical writer role unique.
