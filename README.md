@@ -19,7 +19,7 @@ Code documentation is a documentation provided by a Technical Author or the deve
 
 The sytle in writing Code Documentation depends on the audience. In general, there can be at least 2 (two) type of audience for this documentation, namely The Developer and The Operator.
 
-Mainly, the focus for Developer is **what the code does and how the code does it**. On the other hand, the operator wants to know **how to use the code**.
+Mainly, the focus for Developer is **what the code does and how the code does it**. On the other hand, the operator needs to know **how to use the code**.
 
 <details>
 <summary><strong>1. Code Documentation for Developers (Maintainers)</strong></summary>
