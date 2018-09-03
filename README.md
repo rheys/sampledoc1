@@ -46,5 +46,5 @@ Based on my research about this subject on Google, here are what I have found:
 4. Write everything in the **present tense**
 5. **Avoid** to use **contractions and abreviations**
 
-> *Code can communicate **“what”** it does. But only **comments can communicate “why”** it does it!
+> *Code can communicate **“what”** it does. But only **comments can communicate “why”** it does it!*
 >> **“why”** is a broader truth that simply cannot be expressed in code. It involves requirements, feelings, experience, etc.
