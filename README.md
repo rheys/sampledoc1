@@ -17,7 +17,7 @@ However, as mentioned in the Scope section, this online documentation will only 
 ### Code Documentation
 Code documentation is a documentation provided by a Technical Author or the developer itself to give explanation about the code, how it works, eplanationa about what is the input, what process(es) available, and what is the output. 
 
-The sytle in writing Code Documentation depends on the audience. In general, there can be at least 2 (two) type of audience for this documentation, namely The Developer and The Operator.
+The sytle in writing Code Documentation depends on the audience. In general, there can be at least 2 (two) types of audience for this documentation, namely The Developer and The Operator.
 
 Mainly, the focus for Developer is **what the code does and how the code does it**. On the other hand, the operator needs to know **how to use the code**.
 
